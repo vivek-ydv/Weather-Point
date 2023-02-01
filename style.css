@@ -7,7 +7,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     background: #222;
     background-image: url(./images/johannes-plenio-RwHv7LgeC7s-unsplash.jpg);
-    background-size:cover;
+    background-size: cover;
     font-size: 120%;
 }
 
@@ -58,7 +58,7 @@ button:hover {
 
 h1.temp {
     margin: 0;
-    margin-bottom: 0.4em;
+    margin-bottom: 0.40em;
 }
 
 .flex {
